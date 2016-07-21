@@ -17,7 +17,7 @@ DS1631
 The DS1631 temperature sensor communicates with the micro controller using I2C. High and low temperatures are set via a rotary encoder and buttons to switch between control of both settings.
 
 
-![Alt text](/Images/Diagram2.png?raw=true = 100x100)
+![Alt text](/Images/Diagram2.png?raw=true = 50x50)
 
 
 Rs-232
